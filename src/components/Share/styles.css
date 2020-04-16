@@ -1,0 +1,33 @@
+section.share {
+  background: #000;
+  color: #fff;
+}
+
+section.share .container{
+  height: 100vh;
+  align-items: center;
+}
+section.share .container .share-text{
+  width: 100%;
+  max-width: 562px;
+}
+
+section.share .container .share-text h1{
+  font-size: 60px;
+  line-height: 72px;
+  margin-bottom: 30px;
+}
+
+section.share .container .share-text p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 20px
+}
+
+section.share .container .share-text .social p{
+  font-size: 15px;
+}
+
+section.share .container .share-text .social svg {
+  margin: 0 5px
+}

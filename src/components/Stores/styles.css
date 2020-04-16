@@ -1,0 +1,56 @@
+.stores .container{
+  justify-content: center;
+}
+
+.stores .container h2 {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4a4a4a;
+}
+
+.stores .container .nav-tabs>li>a {
+  border-radius: 0;
+  border: 1px solid #ddd;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+
+.stores .container .nav-tabs>li>a {
+  margin-right: -1px;
+  text-align: center;
+  color: #767676;
+  text-decoration: none;
+}
+
+.stores .container .nav-tabs>li {
+  width: 20%;
+  text-align: center;
+}
+
+.stores .container .nav-tabs>li.active>a,
+.stores .container .nav-tabs>li.active>a:hover,
+.stores .container .nav-tabs>li.active>a:focus {
+  border: 1px solid #ddd;
+  background-color: #0f8cdb;
+  color: #fff;
+}
+
+.stores .container .nav-tabs {
+  border-bottom: none;
+  margin-bottom: 25px;
+  background-color: #fff;
+}
+
+.tab-content .tabpanel {
+  display: flex;
+}
+
+.owl-carousel {
+  max-width: 1140px;
+}

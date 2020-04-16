@@ -1,0 +1,35 @@
+section.find {
+  background: #000;
+  color: #fff;
+}
+
+section.find .container{
+  height: 100vh;
+  align-items: center;
+}
+
+section.find .container .find-text{
+  width: 100%;
+  max-width: 562px;
+  margin-left: auto;
+}
+
+section.find .container .find-text h1{
+  font-size: 60px;
+  line-height: 72px;
+  margin-bottom: 30px;
+}
+
+section.find .container .find-text p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 20px
+}
+
+section.find .container .find-text button{
+  width: 270px;
+  height: 40px;
+  border-radius: 2px;
+  background-color: #ff212b;
+  color: #fff;
+}

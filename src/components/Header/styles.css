@@ -1,0 +1,16 @@
+header.header .container{
+  display: flex;
+  align-items: center;
+}
+header.header .container .button {
+  width: 200px;
+  height: 40px;
+  border-radius: 3px;
+  background-color: #50a131;
+  color: #fff;
+  margin-left: auto;
+}
+
+header.header .container .button svg{
+  margin-left: 15px;
+}
